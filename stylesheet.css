@@ -209,5 +209,6 @@ section p svg{
   
   #myBtn:hover {
     background-color: #F9F9F8;
+    border:1px solid #14397D;
     color: #14397D; /* Add a dark-grey background on hover */
   }
